@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: e-email me to dodop3000@gmail.com
 - 😄 Pronouns: he/him
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodops&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodops&layout=compact&theme=light&hide_border=true)
