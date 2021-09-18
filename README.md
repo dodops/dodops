@@ -3,7 +3,6 @@
 I'm Software engineer from Bahia, working in São Paulo, Brazil.
 
 - 🌱 I’m currently learning functional programming.
-- 👯 I’m looking to collaborate on anything that helps 
 - 🤔 I’m looking for help with open source software.
 - 💬 Ask me about ruby code
 - 📫 How to reach me: e-email me to dodop3000@gmail.com
