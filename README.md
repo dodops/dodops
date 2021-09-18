@@ -2,8 +2,6 @@
 
 I'm Software engineer from Bahia, working in São Paulo, Brazil.
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning functional programming.
 - 👯 I’m looking to collaborate on anything that helps 
 - 🤔 I’m looking for help with open source software.
